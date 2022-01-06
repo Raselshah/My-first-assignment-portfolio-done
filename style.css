@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #e7e7e7;
+    padding: 15px 35px;
+    background-color: orangered;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+/*stay focused area start now*/
+section {
+    margin-top: 60px;
+}
+
+.middle-area {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.content-area {
+    width: 40%;
+}
+
+.content-img-area {
+    width: 40%;
+    margin-left: 10%;
+}
+
+.content-img-area img {
+    width: 70%;
+    float: right;
+    margin-bottom: 50px;
+}
+
+.line h1 {
+    margin: -7px 10px;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.line {
+    border-left: 4px solid orangered;
+    border-radius: 2px;
+    height: 100px;
+    width: 100%;
+    margin: auto;
+}
+
+#font-style {
+    color: orange;
+}
+
+.line-heading-area {
+    display: flex;
+}
+
+.content-area p {
+    margin-top: 35px;
+    text-align: justify;
+    margin-bottom: 40px;
+    color: #7c7b7b;
+}
+
+.content-area h5 {
+    margin-top: 50px;
+    color: #7c7b7b;
+}
+
+/*My Mission area start now*/
+.mission-middle-area {
+    width: 80%;
+    margin: auto;
+}
+
+.mission-heading h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.mission-heading h1 span {
+    color: orange;
+}
+
+.card-area {
+    display: flex;
+
+}
+
+.card-bg-area1 {
+    width: 30%;
+    background-color: #ebebeb;
+    border-radius: 15px;
+}
+
+.card-bg-area2 {
+    width: 30%;
+    background-color: #f8e8e8;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.card-bg-area3 {
+    width: 30%;
+    background-color: #fff2bd;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.card-style {
+    padding: 20px 20px;
+}
+
+.card-style img {
+    width: 50%;
+}
+
+/*Develop area start now*/
+
+.develop-content-area-img {
+    width: 40%;
+}
+
+.develop-content-area-img img {
+    width: 80%;
+}
+
+.develop-content-area {
+    width: 40%;
+    margin-left: 5%;
+}
+
+.develop-content-area h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.develop-content-area p {
+    color: #0c0c0c;
+    font-weight: 500;
+    justify-content: center;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+/*Global Community area start now*/
+.global-content-area-img {
+    width: 40%;
+    margin-left: 5%;
+}
+
+.global-content-area h1 {
+    margin: 0;
+}
+
+.global-content-area-img img {
+    width: 90%;
+}
+
+.global-content-area {
+    width: 40%;
+}
+
+.global-content-area p {
+    margin-bottom: 70px;
+}
+
+/*about me area start now*/
+.my-img-area {
+    margin: auto;
+}
+
+#about-me-background {
+    background-color: #f8e8e8;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.details-me {
+    color: #7a6e6e;
+    margin-left: 100px;
+}
+
+.details-me h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.details-me p {
+    color: #c7c5c5;
+    margin-bottom: 0;
+}
+
+.details-me h3 {
+    text-align: left;
+}
+
+.details-me h4 {
+    margin-bottom: 50px;
+}
+
+.details-me h4 span {
+    color: red;
+}
+
+.text-on-line {
+    display: flex;
+}
+
+.text-align-size h3 {
+    color: #999999;
+    margin-left: 20px;
+}
+
+.details-me p {
+    padding: 15px 0;
+}
+
+/*-footer area start now*/
+footer {
+    background-color: #111111d7;
+    margin-top: 120px;
+}
+
+.footer-text {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-text h1 {
+    color: #fff;
+}
+
+.footer-text span {
+    color: red;
+}
+
+.footer-text p {
+    color: #eaffce;
+}
